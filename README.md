@@ -23,8 +23,9 @@ This is a basic Python HTTP server built using `socket`. The server handles requ
 
 4. Open your web browser and go to `http://localhost:8080/` for `index.html`, or `http://localhost:8080/book` for `book.json`.
 
-![Screenshot 2024-09-12 021121](https://github.com/user-attachments/assets/e4be1832-6f6a-4da9-b01a-10d96c33a2ef)
-![Screenshot 2024-09-12 021109](https://github.com/user-attachments/assets/d9d66bfa-9f71-43e4-8e10-9e94946df093)
 ![Screenshot 2024-09-12 020925](https://github.com/user-attachments/assets/1d0c2fbd-9c86-4e2a-91ae-ce82b514869c)
+![Screenshot 2024-09-12 021109](https://github.com/user-attachments/assets/d9d66bfa-9f71-43e4-8e10-9e94946df093)
+![Screenshot 2024-09-12 021121](https://github.com/user-attachments/assets/e4be1832-6f6a-4da9-b01a-10d96c33a2ef)
+
 
 
